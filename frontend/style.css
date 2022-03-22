@@ -29,6 +29,9 @@ button.primary {
 .fw {
   width: 100%;
 }
+.success {
+  color: #40c04c;
+}
 .grid-container {
   display: grid;
   grid-template-areas:
