@@ -16,6 +16,6 @@
     "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {
-    "source-map-loader": "^1.0.0",
+    "source-map-loader": "^1.0.0"
   }
 }
